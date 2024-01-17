@@ -1,0 +1,37 @@
+.each-tag-container {
+}
+.each-tag-style {
+  color: #ffffff;
+  background-color: transparent;
+  border: 1px solid #f1f5f9;
+  cursor: pointer;
+  outline: none;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 20px;
+  margin-right: 10px;
+}
+.active-tag-style {
+  color: #000000;
+  background-color: #f3aa4e;
+  border: 1px solid #f1f5f9;
+  cursor: pointer;
+  outline: none;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 20px;
+  margin-right: 10px;
+}
+ul {
+  padding: 0;
+  margin: 0;
+}
+li {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
